@@ -1,2 +1,2 @@
 # Wave Mart
-https://bihangi.github.io/wavemart/
+Click to visit website: https://bihangi.github.io/wavemart/Index.html
